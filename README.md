@@ -36,8 +36,8 @@ Follow these steps to run the project in Google Colab:
 ### Step 3: Clone Repository
 
 ```bash
-!git clone https://github.com/NadG17/GPU-Accelerated-Image-Processing-Capstone-Project.git
-%cd /content/GPU-Accelerated-Image-Processing-Capstone-Project
+!git clone https://github.com/guptarnav125/Image-Processing-using-GPU.git
+%cd /content/Image-Processing-using-GPU
 ```
 
 ### Step 4: Install Dependencies
@@ -179,7 +179,7 @@ The project implements three CUDA kernels:
 ## Project Structure
 
 ```
-GPU-Accelerated-Image-Processing-Capstone-Project/
+Image-Processing-using-GPU/
 ├── main.py              # Main application with CUDA kernels
 ├── README.md           # This documentation
 ├── requirements.txt    # Python dependencies
