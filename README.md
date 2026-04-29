@@ -1,4 +1,4 @@
-# GPU-Accelerated Image Processing Capstone Project
+# Image Processing using GPU
 
 A high-performance CUDA-based image filtering system demonstrating GPU parallel computing for computer vision applications
 
